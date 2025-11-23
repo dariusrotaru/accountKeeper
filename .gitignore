@@ -1,29 +1,21 @@
-# PlatformIO
-.pio
-.pioenvs
-.piolibdeps
-.pio/libdeps
-.pio/build
-.pio/lib
-.clangd
-.vscode/.browse.c_cpp.db*
+
+.pio/
+.pioenvs/
+.piolibdeps/
+
 .vscode/c_cpp_properties.json
 .vscode/launch.json
-.vscode/ipch
-.vscode/.cquery_cached_index
-.vscode/.idea
-.idea/
+.vscode/.browse.c_cpp_properties.json
 
-# Build artifacts
+
+*.o
 *.elf
-*.hex
 *.bin
-*.eep
-*.map
-*.lst
-*.srec
-*.dasm
+*.hex
+build/
+Debug/
+Release/
 
-# OS cruft
+
 .DS_Store
 Thumbs.db
