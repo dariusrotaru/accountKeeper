@@ -5,8 +5,6 @@
 #include "accounts.h"
 #include "button.h"
 
-#define MFRC522_STATUS_OK         0
-
 static const uint8_t VALID_UID[4] ={0xE3, 0x0F, 0x68, 0x3B};
 
 
