@@ -14,7 +14,7 @@ Bare metal C application that showcases and RFID locked account keeper mechanism
 ### Schematic | Wiring | Showcase
 
 ![Schematic.png](circuit/accountKeeper.png)
-[![VideoPresentation](https://youtu.be/fg3Gn2Qj3jc)
+![VideoPresentation](https://youtu.be/fg3Gn2Qj3jc)
 
 
 
